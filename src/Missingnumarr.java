@@ -8,8 +8,9 @@ public class Missingnumarr {
                 actualsum+= num;
             }
             int result = expectedsum-actualsum;
-            System.out.print("Missing number is "+result);
-            System.out.println("");
+            System.out.print("Missing number is ");
+            System.out.println(result
+            );
         }
 
 
