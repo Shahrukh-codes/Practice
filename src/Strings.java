@@ -3,8 +3,8 @@ public class Strings {
         System.out.println("I am Saim");
         String s = "saim";
 
-        System.out.println( s.substring(0,1).toUpperCase()+s.substring(1));
-
+        System.out.print( s.substring(0,1).toUpperCase()+s.substring(1));
+        System.out.println();
 
 
     }
