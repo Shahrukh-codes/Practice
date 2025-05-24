@@ -5,5 +5,7 @@ public class Reversestr {
             System.out.print( str.charAt(i));
 
         }
+
+        System.out.println(str);
     }
 }
