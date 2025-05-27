@@ -3,5 +3,8 @@ public class Secondrep {
         String name = "Saim";
         String name2 = "Hrida";
         System.out.println(name +""+ name2);
+        System.out.println(name);
+
     }
+
 }
