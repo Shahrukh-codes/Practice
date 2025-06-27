@@ -3,7 +3,7 @@ public class Secondrep {
         String name = "Saim";
         String name2 = "Hrida";
         System.out.println();
-        System.out.print(name +""+ name2);
+        System.out.print(name +"  "+ name2);
         System.out.println(name);
 
     }
